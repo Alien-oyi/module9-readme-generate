@@ -1,5 +1,5 @@
 
-# readme genetator
+# Readme Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -14,19 +14,19 @@
 - [License](#license)
 
 ## Description
-genetating a readme file
+generating readme
 
 ## Deployed Link
-for demo
+None
 
 ## Screenshot
-![App Screenshot](yes)
+![App Screenshot](not in demo)
 
 ## Installation
-npm i
+None
 
 ## Usage
-none
+start with node index
 
 ## Contributing
 None

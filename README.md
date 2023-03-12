@@ -16,6 +16,12 @@
 ## Description
 Auto-generates project README files faster
 
+## Demo video link
+https://drive.google.com/file/d/1rTF9sQgKKlmSHNJ-PqXmCAVrtNVpXjpk/view
+
+## Sample readme link
+https://github.com/Alien-oyi/module9-readme-generate/blob/main/utils/README.md
+
 ## Deployed Link
 None
 
