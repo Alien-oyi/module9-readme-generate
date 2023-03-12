@@ -51,11 +51,11 @@ const questions = [
     },
     {
         type:"list",
-        name:'lisence',
+        name:'license',
         message:"What license?",
         choices:['MIT','Apache','Mozilla','GNU','Eclipse'],
         filter(val) {
-            return val.toUpperCase();
+            return val.toLowerCase();
         }
     }
     
