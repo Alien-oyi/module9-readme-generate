@@ -1,7 +1,7 @@
 
-# a
+# readme genetator
 
-[![License: Eclipse 1.0](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://www.eclipse.org/legal/epl-v10.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [Project Description](#description)
@@ -14,28 +14,28 @@
 - [License](#license)
 
 ## Description
-a
+genetating a readme file
 
 ## Deployed Link
-a
+for demo
 
 ## Screenshot
-![App Screenshot](a)
+![App Screenshot](yes)
 
 ## Installation
-a
+npm i
 
 ## Usage
-a
+none
 
 ## Contributing
-a
+None
 
 ## Questions
 If you have any questions or want to contribute, please feel free to reach out:
 
-- [GitHub](https://github.com/a)
-- [Email](mailto:a)
+- [GitHub](https://github.com/Alien-oyi)
+- [Email](mailto:daijinmin78@gmail.com)
 
 ## License
-License link: [Eclipse 1.0](https://www.eclipse.org/legal/epl-v10.html)
+License link: [MIT](https://choosealicense.com/licenses/mit/)
